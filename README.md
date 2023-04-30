@@ -1,16 +1,14 @@
-### Hi there 👋
+# <p align="center">**Hi 👋, I'm Youssef**</p>
 
-<!--
-**ELJoOker2004/ELJoOker2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Discord Presence](https://lanyard.cnrad.dev/api/605894319408283678?&bg=00000000)]([https://discord.com/users/605894319408283678](https://discords.com/bio/p/ELJoOker))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![cool readme](https://github-readme-stats.vercel.app/api?username=ELJoOker2004&count_private=true&show_icons=true&theme=radical)
+
+[![another cool readme](https://streak-stats.demolab.com/?user=ELjoOker2004&theme=radical)](https://git.io/streak-stats)]
+
+![another another cool readme](https://github-readme-stats.vercel.app/api/top-langs/?username=ELJoOker2004&langs_count=2&layout=compact&theme=radical)
+
+
+
+![cool counter](https://komarev.com/ghpvc/?username=ELJoOker2004&color=red)
