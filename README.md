@@ -1,4 +1,4 @@
-<a href="https://github.com/ELJoOker2004"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef;Welcome+to+my+git+profile+%F0%9F%98%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef;Welcome+to+my+git+profile+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/605894319408283678?&bg=00000000)]([https://discord.com/users/605894319408283678](https://discords.com/bio/p/ELJoOker))
