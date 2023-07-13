@@ -9,6 +9,11 @@
 
 ![another another cool readme](https://github-readme-stats.vercel.app/api/top-langs/?username=ELJoOker2004&langs_count=2&layout=compact&theme=radical)
 
-
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,flutter,js,python,c" /></br>
+    <img src="https://skillicons.dev/icons?i=discord,androidstudio,visualstudio,github" />
+  </a>
+</p>
 
 ![cool counter](https://komarev.com/ghpvc/?username=ELJoOker2004&color=red)
