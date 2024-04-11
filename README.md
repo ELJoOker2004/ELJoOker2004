@@ -56,11 +56,11 @@ Eager to absorb knowledge 💡, I enjoy diving into new tech and using it to sol
   <img src="https://img.shields.io/badge/-dnSpy-2b2b2b?style=flat-square&logo=.net&logoColor=purple" />
 
 
-<p allign="center>
+
   
   ![cool counter](https://komarev.com/ghpvc/?username=ELJoOker2004&color=red) 
   
-  </p>
+
   </h1>
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/605894319408283678?&bg=00000000)]([https://discord.com/users/605894319408283678](https://discords.com/bio/p/ELJoOker)) <img src="https://github.com/ELJoOker2004/ELJoOker2004/assets/62572632/8f29c932-fd91-46e8-a984-60142a99f5b5" width="350" align="right">
