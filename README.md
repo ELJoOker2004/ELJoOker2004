@@ -28,7 +28,7 @@ Eager to absorb knowledge 💡, I enjoy diving into new tech and using it to sol
 - CTFs
 - Problem Solving
  <br>
- ظ
+ 
 </table>
 
 
